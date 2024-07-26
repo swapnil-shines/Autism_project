@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible"content="ie=edge">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+  <link rel="stylesheet" href="home.css">
+</head>
+<body>
+   <header>
+    <div id="navbar-placeholder"></div>
+    <script>
+        // Fetch and inject the navbar
+        window.addEventListener('DOMContentLoaded', () => {
+        fetch('navigation_bar.html')
+        .then(response => response.text())
+        .then(data => {
+         document.getElementById('navbar-placeholder').innerHTML = data
+        })
+       .catch(error => console.error(error));
+        });
+    </script>
+   </header>
+   <main>
+       <div class="imagee">
+        
+       </div>
+      <div class="backk">
+
+      </div>
+</main>
+   <!--footer-->
+   <!--<section>
+    <footer>
+        <div class="c">
+            <h1>hoygfuyghi</h1>
+        </div>
+            <div class="waves">
+                <div class="wave" id="wave1"></div>
+                <div class="wave" id="wave2"></div>
+                <div class="wave" id="wave3"></div>
+                <div class="wave" id="wave4"></div>
+            </div>
+            <ul class="social_icons">
+                <li>
+                    <a href="#"><i class=""></i></a>
+                </li>
+            </ul>
+       </footer>
+   </section>-->
+    
+
+   <section class="footer">
+    <div class="container">
+
+      <div class="footer-col">
+        <h4>company</h4>
+        <ul>
+          <li><a href="#">about us</a></li>
+          <li><a href="#">our services</a></li>
+          <li><a href="#">privacy policy</a></li>
+          <li><a href="#">affiliate program</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>get help</h4>
+        <ul>
+          <li><a href="#">FAQ</a></li>
+
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Peralinks</h4>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Donate</a></li>
+          <li><a href="#"></a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>follow us</h4>
+        <div class="social-links">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+
+</body>
+</html>

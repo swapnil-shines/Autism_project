@@ -1,0 +1,432 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}                      
+body {
+  width: 100rem;
+}.frame-5-cys {
+  width: 100%;
+  height: 102.4rem;
+}
+.frame-5-cys .desktop-1-SCD {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-size: 80% 80%;
+  background-repeat: no-repeat;
+  
+  background-image: url('../assets/desktop-1-bg.png');
+  
+
+}
+.frame-5-cys .desktop-1-SCD .auto-group-fnx5-X7B {
+  width: 42.8rem;
+  height: 14.9rem;
+  position: absolute;
+  left: -2rem;
+  top: 0;
+}
+.frame-5-cys .desktop-1-SCD .auto-group-fnx5-X7B .homeharmony-autism-2pd {
+  width: 29.7rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 1.3rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #fbea4f;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-5-cys .desktop-1-SCD .auto-group-fnx5-X7B .hha-1-1-pVb {
+  width: 14.9rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-5-cys .desktop-1-SCD .home-Jff {
+  width: 11.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 72rem;
+  top: 1.3rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-Jff a {
+  text-decoration: none;
+}
+.frame-5-cys .desktop-1-SCD .features-b8y {
+  width: 17.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 92.1rem;
+  top: 1.3rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.features-b8y a{
+  text-decoration: none;
+}
+
+.frame-5-cys .desktop-1-SCD .frame-1-gRK {
+  width: 40rem;
+  height: 82rem;
+  position: absolute;
+  left: 30.7rem;
+  top: 16rem;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy {
+  width: 100%;
+  height: 83.2rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .topcard-wMF {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.2rem 1rem 1.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(167, 1, 208, 0.8299999833);
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .topcard-wMF .age-1-to-5-dzm {
+  margin: 0rem 20.3rem 2rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .topcard-wMF .find-the-proper-diet-chart-for-your-child-of-age-between-1-to-5-maintaining-a-proper-diet-for-an-autistic-child-is-crucial-as-it-can-significantly-influence-their-overall-well-being-and-daily-functioning-including-managing-sensory-sensitivities-and-improving-concentration-and-energy-levels-qjT {
+  margin: 0rem 0.5rem 0.6rem 0rem;
+  max-width: 30.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .topcard-wMF .auto-group-fyws-23F {
+  margin-left: 19.3rem;
+  width: 13.9rem;
+  height: 3.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.6399999857);
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .bottomcard-cn9 {
+  box-sizing: border-box;
+  padding: 1.4rem 1.2rem 1rem 1.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(1, 22, 208, 0.8299999833);
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .bottomcard-cn9 .age-11-to-15-k7f {
+  margin: 0rem 17.4rem 2rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .bottomcard-cn9 .find-the-proper-diet-chart-for-your-child-of-age-between-11-to-15-maintaining-a-proper-diet-for-an-autistic-child-is-crucial-as-it-can-significantly-influence-their-overall-well-being-and-daily-functioning-including-managing-sensory-sensitivities-and-improving-concentration-and-energy-levels-TXs {
+  margin: 0rem 0.2rem 0.6rem 0rem;
+  max-width: 31.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-1-gRK .frame-2-cJy .bottomcard-cn9 .auto-group-zfzo-3ky {
+  margin-left: 19.3rem;
+  width: 13.9rem;
+  height: 3.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.6399999857);
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu {
+  width: 40rem;
+  height: 83.2rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 16rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .topcard-C1b {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.2rem 1rem 1.2rem;
+  width: 100%;
+  overflow: hidden;             
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(167, 208, 1, 0.8299999833);
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .topcard-C1b .age-6-to-10-JqK {
+  margin: 0rem 17.8rem 2rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .topcard-C1b .find-the-proper-diet-chart-for-your-child-of-age-between-6-to-10-maintaining-a-proper-diet-for-an-autistic-child-is-crucial-as-it-can-significantly-influence-their-overall-well-being-and-daily-functioning-including-managing-sensory-sensitivities-and-improving-concentration-and-energy-levels-d6u {
+  margin: 0rem 0.4rem 0.6rem 0rem;
+  max-width: 31rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .topcard-C1b .auto-group-axyu-pBP {
+  margin-left: 19.3rem;
+  width: 13.9rem;
+  height: 3.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.6399999857);
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .bottomcard-gUV {
+  box-sizing: border-box;
+  padding: 1.4rem 1.2rem 1rem 1.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(1, 208, 109, 0.8299999833);
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .bottomcard-gUV .age-16-to-20-oZ7 {
+  margin: 0rem 16rem 2rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .bottomcard-gUV .find-the-proper-diet-chart-for-your-child-of-age-between-16-to-20-maintaining-a-proper-diet-for-an-autistic-child-is-crucial-as-it-can-significantly-influence-their-overall-well-being-and-daily-functioning-including-managing-sensory-sensitivities-and-improving-concentration-and-energy-levels-iRB {
+  margin-bottom: 0.6rem;
+  max-width: 31.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .frame-3-szu .bottomcard-gUV .auto-group-tugm-8zh {
+  margin-left: 19.3rem;
+  width: 13.9rem;
+  height: 3.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.6399999857);
+  flex-shrink: 0;
+}
+.frame-5-cys .desktop-1-SCD .donate-Pvd {
+  width: 14.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 119.2rem;
+  top: 1.3rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0c0c0c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.donate-Pvd a{
+  text-decoration: none;
+}
+
+.footer_wrapper{
+  background: url("../images/footer_bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  padding-top:15rem;
+  padding-bottom:0rem;
+  max-width: 1200px; 
+}
+.footer_wrapper h5{
+  color: var(--text-white);
+  font-size:2.5rem;
+  margin-bottom: 1.25rem;
+}
+.footer_wrapper ul li{
+  margin-bottom: 0.5rem;
+  list-style:none;
+} 
+.footer_wrapper .company_details{
+  font-size: 1.4rem;
+
+}
+
+.footer_wrapper .link-widget li a{
+      color:var(--text-grey);
+      font-size: 1.6rem;
+}
+.footer_wrapper .link-widget li a,.footer_wrapper p{
+  color:var(--text-grey);
+  font-size: 1.6rem;
+  padding-left:1.5rem;
+  position:relative;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition:all 0.3s ease-out 0s;
+}
+
+.footer_wrapper .link-widget li a:before{
+  content:'\f105';
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  position: absolute;
+  left:0.3rem;
+  top:50%;
+  -webkit-transform:translateY(-50%);
+  transform:translateY(-50%);
+
+}
+.footer_wrapper .link-widget li a:hover{
+  margin-left:.625rem;
+  color:var(--secondary-color);
+
+}
+.footer_wrapper .stay-connected h5 {
+  margin-bottom: 0.5rem;
+}
+
+.footer_wrapper .social-network {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 0.5rem; /* Add margin to separate heading and icons */
+}
+.footer_wrapper .social-network a{
+  width:3.5rem;
+  height:3.5rem;
+  line-height:3.2rem;
+  margin:.5rem;
+  display:inline-block;
+  border:0.125rem solid var(--text-grey);
+  color:var(--text-grey);
+  text-align:center;
+  border-radius: 100%;
+  -webkit-transition: all 0.3s cubic-bezier(0.625 ,0.045 ,0.355,1);
+  transition:all 0.3s cubic-bezier(0.625 ,0.045 ,0.355,1);
+}
+.footer_wrapper .social-network a:hover{
+  background-color: var(--secondary-color);
+  border-color:var(--secondary-color);
+  color:var(--text-white);
+  box-shadow:0 0.625rem .9375rem 0 rgb(0 0 0 /10%);
+  transform: translateY(-0.1875rem);
+}
+
+
+
+
+
+/* Add a media query for small screens */
+@media (max-width: 767px) {
+  /* Make the navbar-toggler button white */
+  .navbar-toggler {
+      color: var(--bg-white);
+  }
+
+}
+
+
+/* Rest of your CSS code */

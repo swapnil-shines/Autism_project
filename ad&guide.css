@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@600;700&family=Poppins:wght@100&family=Roboto:ital,wght@1,300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Geologica', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.Sections{
+    width: 100%;
+    min-height: 80vh;
+    background-color: hsl(0, 76%, 74%);
+}
+.hed{
+    text-align: center;
+    height: 7%;
+    background-color:white;
+    justify-content: center;
+    align-items: center;
+    text-decoration: solid;
+    text-transform: var(--box-shadow);
+
+}
+.hed h1{
+    font-size: 60px;
+    color: #490101;
+    text-shadow: 0.5rem .4rem 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-color: rgb(142, 156, 156);
+}
+.Contains{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+.Contains-section{
+    float: left;
+    width: 55%;
+    background-position: center;
+}
+.img-sec{
+    float: right;
+    width: 45%;
+    height: auto;
+  
+}
+.img-sec img{
+    width: 70%;
+    height: 60%;
+}
+.Contains-section .T1 {
+    text-transform: uppercase;
+    font-size: 33px;
+    font-style: italic;
+    text-decoration-color: antiquewhite;
+}
+.Contains-section h3{
+    font-size: 30px;
+    font-style: normal;
+
+}
+.Contains-section p{
+    font-size: 26px;
+    color: rgb(12, 4, 0);
+
+}
+/* 2nd page*/
+.Fig-page{
+    width: 100%;
+    min-height: 80vh;
+    background-color: hsl(313, 62%, 77%);
+}
+.center h1{
+    text-align: center;
+    font-size: 60px;
+    color: #1d1010;
+}
+.Con-page{
+    width: 100%;
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    height: 60vh;
+}
+.img1-sec-page{
+    float: left;
+    width: 50%;
+    padding-right: 200px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+   
+}
+.img1-sec-page img{
+    width: 120%;
+    height: 90%;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    padding-top: 40px;
+   
+}
+.img2-sec-page{
+    float: right;
+    width: 50%;
+    height: auto;
+    
+  
+}
+.img2-sec-page img{
+    width: 110%;
+    height: 90%;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    padding-right: 200px;
+    padding-top: 40px;
+  
+}
+
+
+/* 3rd page*/
+
+
+.SEC2{
+    width: 100%;
+    min-height: 80vh;
+    background-color: hsl(210, 29%, 54%); 
+}
+.Con{
+    width: 100%;
+    display: block;
+    margin: auto;
+    height: auto;
+   
+}
+.Con-sec{
+    float: right;
+    width: 50%;
+    
+}
+
+.img2-sec{
+    float: left;
+    width: 50%;
+    height: auto;
+  
+}
+.img2-sec img{
+    width: 70%;
+    height: 30%;
+    padding-left: 150px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    padding-top: 40px;
+}
+.Con-sec .T2{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration-color: antiquewhite;
+    padding-left: 80px;
+    padding-top: 150px;
+
+}
+.Con-sec p{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration-color: antiquewhite;
+    padding-left: 80px;
+    padding-top: 70px;
+}

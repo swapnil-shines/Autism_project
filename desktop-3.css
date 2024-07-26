@@ -1,0 +1,274 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-3-9xq {
+  width: 150%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(175, 209, 38, 0.6899999976);
+}
+.desktop-3-9xq .homeharmony-autism-ghs {
+  width: 29.7rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #fbea4f;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-9xq .hha-1-2-ygy {
+  width: 14.9rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-9xq .home-ieZ {
+  width: 11.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-9xq .features-dFj {
+  width: 17.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 94.5rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-9xq .donate-jpZ {
+  width: 14.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 121.4rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0c0c0c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-9xq .frame-4-Sys {
+  box-sizing: border-box;
+  padding: 2rem 0.9rem 0.9rem 1rem;
+  width: 141.2rem;
+  height: 86.5rem;
+  position: absolute;
+  left: 15rem;
+  top: 13.7rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.9200000167);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-4-bg-Rrd.png');
+}
+.desktop-3-9xq .frame-4-Sys .diet-chart-for-child-aged-6-10-years-ji5 {
+  margin: 0rem 0rem 4.6rem 0.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-kx2r-RL1 {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 39rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+
+.home-ieZ a{
+  text-decoration: none;
+}
+.features-dFj a{
+  text-decoration: none;
+}
+.donate-jpZ a{
+  text-decoration: none;
+}
+
+
+
+.desktop-3-9xq .frame-4-Sys .auto-group-kx2r-RL1 .group-2-kNH {
+  margin-right: 3.7rem;
+  width: 42.3rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-kx2r-RL1 .group-2-kNH .breakfast-scrambled-eggs-whole-grain-toast-and-a-banana-oatmeal-with-apple-slices-and-a-dollop-of-almond-butter-gluten-free-pancakes-with-a-handful-of-blueberries-greek-yogurt-with-mixed-berries-and-a-drizzle-of-honey-whole-grain-cereal-with-almond-milk-and-sliced-strawberries-smoothie-with-spinach-banana-and-peanut-butter-avocado-on-whole-grain-toast-and-a-side-of-cottage-cheese-Vam {
+  max-width: 42.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-kx2r-RL1 .group-3-rZj {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem 0.8rem 1.3rem;
+  width: 44.3rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-kx2r-RL1 .group-3-rZj .lunch-turkey-and-cheese-sandwich-on-whole-grain-bread-with-carrot-sticks-gluten-free-pasta-with-tomato-sauce-and-lean-ground-beef-chicken-salad-with-mixed-greens-and-olive-oil-dressing-brown-rice-and-black-beans-with-avocado-slices-tuna-salad-wrap-with-cucumber-and-lettuce-quinoa-salad-with-cherry-tomatoes-cucumber-and-feta-cheese-grilled-chicken-with-sweet-potato-fries-and-steamed-broccoli-P3s {
+  max-width: 41.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-kx2r-RL1 .group-5-LtD {
+  box-sizing: border-box;
+  padding: 1.5rem 2.4rem 1.5rem 1.4rem;
+  width: 45.9rem;
+  height: 100%;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-kx2r-RL1 .group-5-LtD .dinner-baked-salmon-with-quinoa-and-steamed-green-beans-grilled-chicken-breast-with-mashed-potatoes-and-peas-beef-stir-fry-with-a-variety-of-vegetables-and-brown-rice-baked-cod-with-roasted-root-vegetables-gluten-free-pizza-with-cheese-and-a-variety-of-toppings-meatballs-with-gluten-free-spaghetti-and-a-side-salad-roast-chicken-with-roast-potatoes-and-steamed-carrots-UzR {
+  max-width: 42.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K {
+  margin: 0rem 1.6rem 2.5rem 0rem;
+  width: calc(100% - 1.6rem);
+  height: 19.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-3lof-n7w {
+  box-sizing: border-box;
+  padding: 0.5rem 0.6rem 0rem 0.6rem;
+  width: 42.3rem;
+  height: 100%;
+  background-color: rgba(207, 198, 183, 0.6000000238);
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-3lof-n7w .snacks-fresh-fruit-apples-oranges-grapes-vegetable-sticks-carrots-celery-with-hummus-rice-cakes-with-almond-butter-gluten-free-crackers-with-cheese-homemade-trail-mix-nuts-seeds-dried-fruit-7R7 {
+  max-width: 37.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-xsho-kDB {
+  box-sizing: border-box;
+  padding-left: 4.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-xsho-kDB .group-4-HU1 {
+  margin-right: 3.2rem;
+  width: 44.3rem;
+  height: 14rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-xsho-kDB .group-4-HU1 .rectangle-2-2gV {
+  width: 43.4rem;
+  height: 14rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-xsho-kDB .group-4-HU1 .dessert-treats-optional-and-in-moderation-fruit-salad-gluten-free-cookies-homemade-fruit-popsicles-y5w {
+  width: 42.4rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 0.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-xsho-kDB .group-6-EGm {
+  box-sizing: border-box;
+  padding: 0.2rem 1.4rem;
+  width: 43.7rem;
+  height: 9.8rem;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .auto-group-zrau-f3K .auto-group-xsho-kDB .group-6-EGm .drinks-water-should-be-the-primary-drink-avoid-sugary-drinks-and-limit-juices-yEM {
+  max-width: 34.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-9xq .frame-4-Sys .group-7-rZ3 {
+  margin: 0rem 7.83rem 0rem 8.9rem;
+  box-sizing: border-box;
+  padding: 1.9rem 6.97rem 1.3rem 6.2rem;
+  width: calc(100% - 16.7299rem);
+  height: 10.5rem;
+  background-color: rgba(197, 220, 102, 0.6899999976);
+  flex-shrink: 0;
+}
+.desktop-3-9xq .frame-4-Sys .group-7-rZ3 .remember-every-childs-needs-and-preferences-are-unique-especially-for-those-on-the-autism-spectrum-its-important-to-consult-with-a-healthcare-professional-or-dietitian-to-tailor-the-diet-plan-to-your-childs-specific-health-requirements-dietary-restrictions-and-sensory-sensitivities-wqP {
+  max-width: 109.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}

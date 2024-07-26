@@ -1,0 +1,275 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-AbF {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  margin-left:150px;
+  
+}
+.desktop-2-AbF .homeharmony-autism-JSZ {
+  width: 29.7rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #fbea4f;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-AbF .hha-1-2-yob {
+  width: 14.9rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-AbF .home-iWH {
+  width: 11.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-AbF .features-q57 {
+  width: 17.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 94.5rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-AbF .donate-M3T {
+  width: 14.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 121.4rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0c0c0c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-AbF .frame-4-rku {
+  box-sizing: border-box;
+  padding: 2rem 0.9rem 0.9rem 0.9rem;
+  width: 141.2rem;
+  height: 86.5rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 13.7rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.9200000167);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-4-bg-ttD.png');
+}
+.desktop-2-AbF .frame-4-rku .diet-chart-for-child-aged-1-5-years-4ry {
+  margin: 0rem 0rem 4.6rem 2.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .diet-chart-for-child-aged-1-5-years-4ry p{
+  font-color:#000000;
+}
+
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB {
+  margin: 0rem 2.2rem 4.4rem 0rem;
+  width: calc(100% - 2.2rem);
+  height: 48.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-vy9j-UQu {
+  width: 42.4rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-vy9j-UQu .group-2-pjf {
+  margin-bottom: 3rem;
+  width: 42.3rem;
+  height: 32.8rem;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-vy9j-UQu .group-2-pjf .breakfast-whole-grain-cereal-provide-a-serving-of-whole-grain-cereal-fortified-with-essential-nutrients-add-milk-or-a-dairy-free-alternative-fruit-smoothie-blend-fruits-such-as-banana-berries-and-a-splash-of-yogurt-or-a-non-dairy-alternative-egg-scramble-scramble-eggs-with-vegetables-like-spinach-bell-peppers-and-tomatoes-mQ1 {
+  max-width: 42.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-vy9j-UQu .auto-group-pujh-DfK {
+  box-sizing: border-box;
+  padding: 1.1rem 0.7rem 2rem 0.7rem;
+  width: 100%;
+  background-color: #cfc6b7;
+  flex-shrink: 0;
+}
+
+
+.home-iWH a{
+  text-decoration: none;
+}
+.features-q57 a{
+  text-decoration: none;
+}
+.donate-M3T a{
+  text-decoration: none;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-vy9j-UQu .auto-group-pujh-DfK .mid-morning-snack-fresh-fruit-offer-slices-of-apple-pear-or-other-preferred-fruits-Ljw {
+  max-width: 33.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d {
+  box-sizing: border-box;
+  padding-left: 3.7rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-qck5-yY1 {
+  margin-right: 3.7rem;
+  width: 43.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-qck5-yY1 .group-3-7u7 {
+  margin-bottom: 3.3rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.3rem;
+  width: 100%;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-qck5-yY1 .group-3-7u7 .lunch-grilled-chicken-strips-serve-small-strips-of-grilled-chicken-for-protein-quinoa-salad-make-a-quinoa-salad-with-chopped-vegetables-and-a-light-dressing-steamed-broccoli-include-a-side-of-steamed-broccoli-for-added-nutrition-gaq {
+  max-width: 37.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-qck5-yY1 .group-4-JcD {
+  width: 100%;
+  height: 11.3626rem;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-qck5-yY1 .group-4-JcD .afternoon-snack-greek-yogurt-provide-a-small-bowl-of-greek-yogurt-with-a-drizzle-of-honey-Tk1 {
+  max-width: 42.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-liir-A8d {
+  width: 43.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-liir-A8d .group-5-K1X {
+  margin-bottom: 3.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 2.5rem 1.4rem;
+  width: 100%;
+  height: 25.9rem;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-liir-A8d .group-5-K1X .dinner-baked-fish-offer-a-small-portion-of-baked-fish-rich-in-omega-3-fatty-acids-sweet-potato-mash-mash-sweet-potatoes-as-a-side-dish-cooked-carrots-include-cooked-carrots-for-additional-vitamins-3TK {
+  max-width: 39.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-liir-A8d .group-6-Gay {
+  width: 100%;
+  height: 9.8rem;
+  background-color: rgba(217, 217, 217, 0.4300000072);
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .auto-group-9qfk-MbB .auto-group-4ewf-E4d .auto-group-liir-A8d .group-6-Gay .evening-snack-nut-butter-on-whole-wheat-crackers-spread-nut-butter-on-whole-wheat-crackers-for-a-satisfying-snack-psP {
+  max-width: 42.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-AbF .frame-4-rku .group-7-5oK {
+  margin: 0 9rem;
+  box-sizing: border-box;
+  padding: 0rem 8.7rem 0rem 14rem;
+  width: calc(100% - 18rem);
+  height: 22.1rem;
+  background-color: rgba(142, 88, 155, 0.6399999857);
+  flex-shrink: 0;
+}
+.desktop-2-AbF .frame-4-rku .group-7-5oK .notes-hydration-ensure-the-child-stays-hydrated-throughout-the-day-with-water-or-diluted-fruit-juices-texture-preferences-consider-the-childs-texture-preferences-as-some-children-with-autism-may-have-sensory-sensitivities-supplements-consult-with-a-healthcare-professional-to-determine-if-any-nutritional-supplements-are-necessary-consistency-maintain-a-consistent-eating-schedule-to-establish-routines-nxd {
+  max-width: 98.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}

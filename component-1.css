@@ -1,0 +1,1835 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 129.2rem;
+}.component-1-uQq {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 7.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-1-uQq .property-11-Ys7 {
+  width: 100%;
+  height: 69.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 {
+  width: 119.6rem;
+  height: 69.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 {
+  box-sizing: border-box;
+  padding-right: 0rem;
+  width: 495.3853rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH {
+  margin: 0.6rem 2.698rem 0rem 0rem;
+  width: 80.4447rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj {
+  box-sizing: border-box;
+  padding: 6.4rem 0rem 3.446rem 1.39rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 {
+  margin-right: 17.5rem;
+  width: 78.2098rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w {
+  margin-bottom: 0.2rem;
+  width: 75rem;
+  height: 51.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w .group-2-5Wu {
+  width: 35.2rem;
+  height: 44.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.1rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w .group-2-5Wu .rectangle-1-hYH {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 127.232%;
+  background-position: 0rem -0.14rem;
+  background-image: url('../assets/rectangle-1-bg.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w .group-2-5Wu .rectangle-1-hYH .rectangle-1-hYH-bg {
+  width: 28.5rem;
+  height: 33.6rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:41ed192e0c7a46e427ce463105d0051eafe5777e');
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w .group-2-5Wu .auto-group-inq3-TQy {
+  margin-left: 3.1rem;
+  width: 22.4rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w .group-2-5Wu .auto-group-inq3-TQy .nurul-islam-aEh {
+  width: 22.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w .group-2-5Wu .auto-group-inq3-TQy .businessman-Pxq {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-g43f-s9w .i-was-struggling-with-my-child-until-i-found-this-website-it-helped-me-a-lot-go-through-my-difficulties-handling-two-autistic-child-in-a-family-i-am-glad-i-found-this-i-would-recommend-all-hope-they-go-a-long-way-serving-like-this-and-people-like-me-will-be-beneficial-very-much-Dgy {
+  width: 46.2rem;
+  height: 51.9rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-hwwf-ZPT {
+  margin-right: 2.0392rem;
+  width: calc(100% - 2.0392rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-hwwf-ZPT .group-HaM {
+  margin-right: 61.8964rem;
+  width: 6.4643rem;
+  height: 6.4643rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .auto-group-phiu-TM7 .auto-group-hwwf-ZPT .vector-2Xw {
+  margin-bottom: 0.02rem;
+  width: 7.8099rem;
+  height: 6.8345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-1-7UH .frame-1-Vjj .iconoir-quote-solid-LoX {
+  margin-bottom: 2.0545rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu {
+  margin: 0rem 2.505rem 0.6rem 0rem;
+  width: 80.4447rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .group-2-V49 {
+  width: 32.4rem;
+  height: 44.3rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 8.5rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .group-2-V49 .rectangle-1-JXP {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-hTb.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .group-2-V49 .auto-group-31lh-nxM {
+  margin-left: 0.3rem;
+  width: 28.3rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .group-2-V49 .auto-group-31lh-nxM .shaila-afroze-YAq {
+  width: 25.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .group-2-V49 .auto-group-31lh-nxM .special-educator-U4V {
+  width: 28.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .iconoir-quote-solid-adK {
+  width: 14.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 50.1rem;
+  overflow: hidden;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .vector-gwF {
+  width: 7.8099rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 69.7509rem;
+  top: 58.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-2-pCu .frame-1-vWq .from-a-special-educators-viewpoint-this-website-is-a-goldmine-it-brilliantly-compiles-various-teaching-methods-and-tools-that-are-adaptable-to-the-diverse-needs-of-autistic-learners-dLh {
+  width: 361rem;
+  height: 4rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 9.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 {
+  margin: 0.3rem 2.505rem 0.3rem 0rem;
+  width: 80.4447rem;
+  height: calc(100% - 0.6rem);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .group-2-WYu {
+  width: 33.6rem;
+  height: 44.8rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 8.5rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .group-2-WYu .rectangle-1-ev1 {
+  margin: 0rem 3.6rem 1.9rem 1.5rem;
+  width: calc(100% - 5.1rem);
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 127.232%;
+  background-position: 0 -3.3369rem;
+  background-image: url('../assets/rectangle-1-bg-b49.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .group-2-WYu .rectangle-1-ev1 .rectangle-1-ev1-bg {
+  width: 28.5rem;
+  height: 33.6rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:7fc930d7755ad8aef10354531b5e0a87a42660f6');
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .group-2-WYu .auto-group-simb-6X7 {
+  width: 31rem;
+  height: 9.3rem;
+  position: relative;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .group-2-WYu .auto-group-simb-6X7 .tanzil-hasan-Sqs {
+  width: 25.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .group-2-WYu .auto-group-simb-6X7 .child-psychologist-Jt5 {
+  width: 31rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .iconoir-quote-solid-b6V {
+  width: 14.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 50.1rem;
+  overflow: hidden;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .vector-8cD {
+  width: 7.8099rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 69.7509rem;
+  top: 58.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-3-SZ3 .frame-1-Yry .as-a-child-psychologist-specializing-in-autism-i-find-homeharmonyautism-to-be-an-extraordinary-resource-the-site-expertly-blends-educational-strategies-with-psychological-insights-offering-parents-comprehensive-evidence-approaches-to-homeschooling-their-children-E9T {
+  width: 531.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 33.4rem;
+  top: 5.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB {
+  margin: 0rem 2.505rem 0.6rem 0rem;
+  width: 80.4447rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK {
+  box-sizing: border-box;
+  padding: 2.4rem 0rem 3.466rem 4.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .it-empowers-parents-with-knowledge-and-practical-tools-fostering-a-positive-and-effective-homeschooling-environment-the-sites-holistic-approach-addressing-both-educational-and-emotional-aspects-aligns-perfectly-with-the-supportive-and-nurturing-strategies-nyb {
+  margin: 0rem 0rem 2.1rem 28.8rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 {
+  width: 106.6rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .group-2-XJu {
+  margin: 0rem 32.351rem 12.534rem 0rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .group-2-XJu .rectangle-1-fvu {
+  margin-bottom: 2.7rem;
+  width: 27.3rem;
+  height: 32.8rem;
+  background-color: #d9d9d9;
+  background-size: 100% 124.832%;
+  background-position: 0rem -0.5019rem;
+  background-image: url('../assets/rectangle-1-bg-vcD.png');
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .group-2-XJu .rectangle-1-fvu .rectangle-1-fvu-bg {
+  width: 27.3rem;
+  height: 32.8rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:e2b5cf9bfb5873869257e1f835d44cc1bf4e8bf4');
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .group-2-XJu .auto-group-mmok-iuB {
+  width: 27.5rem;
+  height: 8.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .group-2-XJu .auto-group-mmok-iuB .dr-reba-khan-sn5 {
+  width: 26.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .group-2-XJu .auto-group-mmok-iuB .doctor-CpM {
+  width: 11.6rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .vector-Wq3 {
+  margin-right: 19.5392rem;
+  width: 7.8099rem;
+  height: 6.8345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-4-nqB .frame-1-tdK .auto-group-2fev-z45 .iconoir-quote-solid-s9o {
+  margin-bottom: 2.0345rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs {
+  margin: 0rem 2.505rem 0.6rem 0rem;
+  width: 80.4447rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 .group-2-fjs {
+  box-sizing: border-box;
+  padding-bottom: 0.8rem;
+  width: 34.1rem;
+  height: 46.5rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 8.5rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 .group-2-fjs .rectangle-1-NPP {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-9nD.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 .group-2-fjs .faria-nanjeba-UBX {
+  margin-bottom: 0.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 .group-2-fjs .autism-therapist-1BT {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 .iconoir-quote-solid-YBP {
+  width: 14.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 50.1rem;
+  overflow: hidden;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 .vector-5BK {
+  width: 7.8099rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 69.7509rem;
+  top: 58.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-5-NVs .frame-1-ho3 .in-my-role-as-an-autism-therapist-i-appreciate-how-this-website-addresses-the-multifaceted-challenges-of-homeschooling-autistic-childrenthe-sites-focus-on-empowering-parents-with-knowledge-and-skills-is-exemplary-cww {
+  width: 430.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 33rem;
+  top: 8.1rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV {
+  margin: 0.3rem 0;
+  width: 80.4447rem;
+  height: calc(100% - 0.6rem);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .group-2-hc1 {
+  width: 37.2rem;
+  height: 44.3rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 8.5rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .group-2-hc1 .rectangle-1-SZb {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-kBo.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .group-2-hc1 .auto-group-xgi9-Zu7 {
+  margin-left: 3.1rem;
+  width: 21.9rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .group-2-hc1 .auto-group-xgi9-Zu7 .ash-mariz-vDs {
+  width: 18.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .group-2-hc1 .auto-group-xgi9-Zu7 .businessman-TDo {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .iconoir-quote-solid-kCu {
+  width: 14.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 50.1rem;
+  overflow: hidden;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .vector-61s {
+  width: 7.8099rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 69.7509rem;
+  top: 58.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-11-Ys7 .frame-3-ce1 .group-7-4W1 .group-6-zxV .frame-1-w73 .i-faced-challenges-in-caring-for-my-two-autistic-children-until-i-discovered-this-website-it-provided-valuable-assistance-in-navigating-the-complexities-of-raising-multiple-autistic-children-within-a-family-dnV {
+  width: 400rem;
+  height: 4rem;
+  position: absolute;
+  left: 33.4rem;
+  top: 6.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-11-Ys7 .frame-4-b73 {
+  width: 42rem;
+  height: 68.8rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-12-jDF {
+  width: 100%;
+  height: 69.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu {
+  width: 119.6rem;
+  height: 69.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 {
+  width: 167.4rem;
+  height: 69.1rem;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf {
+  margin: 0rem 2.566rem 0.3rem 0rem;
+  width: 82.4169rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 {
+  box-sizing: border-box;
+  padding: 8.5rem 0rem 3.31rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-aywo-EZK {
+  margin-right: 1.5rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-aywo-EZK .group-2-N9j {
+  margin: 0rem 0rem 6.1rem 3rem;
+  width: 32.4rem;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-aywo-EZK .group-2-N9j .rectangle-1-KKs {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-M7B.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-aywo-EZK .group-2-N9j .auto-group-zrxv-e7F {
+  margin-left: 0.3rem;
+  width: 28.3rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-aywo-EZK .group-2-N9j .auto-group-zrxv-e7F .shaila-afroze-b2V {
+  width: 25.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-aywo-EZK .group-2-N9j .auto-group-zrxv-e7F .special-educator-UMB {
+  width: 28.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-aywo-EZK .group-12-ncm {
+  width: 6.5895rem;
+  height: 6.5895rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-lpxr-WHs {
+  margin: 0rem 17rem 0.155rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-lpxr-WHs .from-a-special-educators-viewpoint-this-website-is-a-goldmine-it-brilliantly-compiles-various-teaching-methods-and-tools-that-are-adaptable-to-the-diverse-needs-of-autistic-learners-eey {
+  margin-bottom: 9rem;
+  max-width: 41.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .auto-group-lpxr-WHs .vector-GRT {
+  margin-right: 0.6378rem;
+  width: 8.0014rem;
+  height: 6.8345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-2-ajf .frame-1-6i1 .iconoir-quote-solid-CK7 {
+  margin-bottom: 2.1895rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs {
+  margin-top: 0.3rem;
+  width: 82.4169rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .group-2-CCd {
+  width: 33.6rem;
+  height: 44.8rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 8.5rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .group-2-CCd .rectangle-1-97s {
+  margin: 0rem 3.6rem 1.9rem 1.5rem;
+  width: calc(100% - 5.1rem);
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 127.232%;
+  background-position: 0 -3.3369rem;
+  background-image: url('../assets/rectangle-1-bg-Z6D.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .group-2-CCd .rectangle-1-97s .rectangle-1-97s-bg {
+  width: 28.5rem;
+  height: 33.6rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:7fc930d7755ad8aef10354531b5e0a87a42660f6');
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .group-2-CCd .auto-group-qsks-zeH {
+  width: 31rem;
+  height: 9.3rem;
+  position: relative;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .group-2-CCd .auto-group-qsks-zeH .tanzil-hasan-x5K {
+  width: 25.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .group-2-CCd .auto-group-qsks-zeH .child-psychologist-D1F {
+  width: 31rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .iconoir-quote-solid-J2h {
+  width: 14.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 50.1rem;
+  overflow: hidden;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .vector-2zH {
+  width: 8.0014rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 71.4609rem;
+  top: 58.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-12-jDF .frame-3-5nu .group-7-EA1 .group-3-hFs .frame-1-EFo .as-a-child-psychologist-specializing-in-autism-i-find-homeharmonyautism-to-be-an-extraordinary-resource-the-site-expertly-blends-educational-strategies-with-psychological-insights-offering-parents-comprehensive-evidence-approaches-to-homeschooling-their-children-P49 {
+  width: 531.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 35.4rem;
+  top: 5.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-12-jDF .frame-4-Eys {
+  width: 42rem;
+  height: 68.8rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-13-PLy {
+  width: 100%;
+  height: 69.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV {
+  width: 119.6rem;
+  height: 69.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu {
+  width: 167.8rem;
+  height: 69.1rem;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR {
+  margin: 0.3rem 2.572rem 0rem 0rem;
+  width: 82.6138rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm {
+  box-sizing: border-box;
+  padding: 5.6rem 0rem 2.255rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM {
+  margin-right: 14.9rem;
+  width: 80.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .group-2-Q9b {
+  width: 33.6rem;
+  height: 44.8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 2.9rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .group-2-Q9b .rectangle-1-9N5 {
+  margin: 0rem 3.6rem 1.9rem 1.5rem;
+  width: calc(100% - 5.1rem);
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 127.232%;
+  background-position: 0 -3.3369rem;
+  background-image: url('../assets/rectangle-1-bg-ot1.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .group-2-Q9b .rectangle-1-9N5 .rectangle-1-9N5-bg {
+  width: 28.5rem;
+  height: 33.6rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:7fc930d7755ad8aef10354531b5e0a87a42660f6');
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .group-2-Q9b .auto-group-gsy9-AHB {
+  width: 31rem;
+  height: 9.3rem;
+  position: relative;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .group-2-Q9b .auto-group-gsy9-AHB .tanzil-hasan-tiy {
+  width: 25.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .group-2-Q9b .auto-group-gsy9-AHB .child-psychologist-cey {
+  width: 31rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .vector-uty {
+  width: 8.0205rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 70.2316rem;
+  top: 52.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .as-a-child-psychologist-specializing-in-autism-i-find-homeharmonyautism-to-be-an-extraordinary-resource-the-site-expertly-blends-educational-strategies-with-psychological-insights-offering-parents-comprehensive-evidence-approaches-to-homeschooling-their-children-4G5 {
+  width: 46.6rem;
+  height: 55.9rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .auto-group-pyey-svM .group-10-fFs {
+  width: 6.4446rem;
+  height: 6.4446rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 54.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-3-CJR .frame-1-8xm .iconoir-quote-solid-oN5 {
+  margin-bottom: 3.2446rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd {
+  margin-bottom: 0.3rem;
+  width: 82.6138rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH {
+  box-sizing: border-box;
+  padding: 2.4rem 0rem 3.466rem 4.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .it-empowers-parents-with-knowledge-and-practical-tools-fostering-a-positive-and-effective-homeschooling-environment-the-sites-holistic-approach-addressing-both-educational-and-emotional-aspects-aligns-perfectly-with-the-supportive-and-nurturing-strategies-zxM {
+  margin: 0rem 0rem 2.1rem 31rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f {
+  width: 106.6rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .group-2-jHf {
+  margin: 0rem 34.232rem 12.534rem 0rem;
+  width: 32.8rem;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .group-2-jHf .rectangle-1-453 {
+  margin-bottom: 2.7rem;
+  width: 27.3rem;
+  height: 32.8rem;
+  background-color: #d9d9d9;
+  background-size: 100% 124.832%;
+  background-position: 0rem -0.5019rem;
+  background-image: url('../assets/rectangle-1-bg-umF.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .group-2-jHf .rectangle-1-453 .rectangle-1-453-bg {
+  width: 27.3rem;
+  height: 32.8rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:e2b5cf9bfb5873869257e1f835d44cc1bf4e8bf4');
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .group-2-jHf .auto-group-hztq-KFs {
+  width: 27.5rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .group-2-jHf .auto-group-hztq-KFs .dr-reba-khan-UPf {
+  width: 26.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .group-2-jHf .auto-group-hztq-KFs .doctor-oRw {
+  width: 11.6rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .vector-KfB {
+  margin-right: 17.4479rem;
+  width: 8.0205rem;
+  height: 6.8345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-3-WgV .group-7-4xu .group-4-Jpd .frame-1-fQH .auto-group-vg93-S3f .iconoir-quote-solid-46y {
+  margin-bottom: 2.0345rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-13-PLy .frame-4-kkV {
+  width: 42rem;
+  height: 68.8rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-14-Vxy {
+  width: 100%;
+  height: 69.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm {
+  box-sizing: border-box;
+  padding: 0.3rem 0;
+  width: 119.6rem;
+  height: 69.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 {
+  width: 167rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 {
+  margin-right: 2.5601rem;
+  width: 82.2199rem;
+  height: 100%;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam {
+  box-sizing: border-box;
+  padding: 2.4rem 0rem 3.455rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 {
+  margin-right: 17.8276rem;
+  width: 77.8724rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj {
+  margin: 0rem 0.872rem 0.2rem 0rem;
+  width: 73.8rem;
+  height: 55.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj .group-2-42R {
+  width: 32.8rem;
+  height: 44.3rem;
+  position: absolute;
+  left: 0;
+  top: 6.1rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj .group-2-42R .rectangle-1-QMB {
+  margin-bottom: 2.7rem;
+  width: 27.3rem;
+  height: 32.8rem;
+  background-color: #d9d9d9;
+  background-size: 100% 124.832%;
+  background-position: 0rem -0.5019rem;
+  background-image: url('../assets/rectangle-1-bg-8XX.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj .group-2-42R .rectangle-1-QMB .rectangle-1-QMB-bg {
+  width: 27.3rem;
+  height: 32.8rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:e2b5cf9bfb5873869257e1f835d44cc1bf4e8bf4');
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj .group-2-42R .auto-group-u4w9-U69 {
+  width: 27.5rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj .group-2-42R .auto-group-u4w9-U69 .dr-reba-khan-1Ly {
+  width: 26.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj .group-2-42R .auto-group-u4w9-U69 .doctor-LPF {
+  width: 11.6rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-pish-KKj .it-empowers-parents-with-knowledge-and-practical-tools-fostering-a-positive-and-effective-homeschooling-environment-the-sites-holistic-approach-addressing-both-educational-and-emotional-aspects-aligns-perfectly-with-the-supportive-and-nurturing-strategies-RvV {
+  width: 43.2rem;
+  height: 55.9rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-dc1s-Sah {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-dc1s-Sah .group-15-1Nu {
+  margin-right: 63.4455rem;
+  width: 6.4446rem;
+  height: 6.4446rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .auto-group-nzzp-mp1 .auto-group-dc1s-Sah .vector-W4m {
+  margin-bottom: 0.0102rem;
+  width: 7.9823rem;
+  height: 6.8345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-4-i53 .frame-1-Fam .iconoir-quote-solid-Sj7 {
+  margin-bottom: 2.0447rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 {
+  width: 82.2199rem;
+  height: 100%;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR .group-2-e4V {
+  box-sizing: border-box;
+  padding-bottom: 0.8rem;
+  width: 34.1rem;
+  height: 46.5rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 8.5rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR .group-2-e4V .rectangle-1-xay {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-p3F.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR .group-2-e4V .faria-nanjeba-Fa5 {
+  margin-bottom: 0.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR .group-2-e4V .autism-therapist-6Ko {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR .iconoir-quote-solid-Rss {
+  width: 14.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 50.1rem;
+  overflow: hidden;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR .vector-mgq {
+  width: 7.9823rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 71.2901rem;
+  top: 58.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-14-Vxy .frame-3-EQm .group-7-BL1 .group-5-8M3 .frame-1-spR .in-my-role-as-an-autism-therapist-i-appreciate-how-this-website-addresses-the-multifaceted-challenges-of-homeschooling-autistic-childrenthe-sites-focus-on-empowering-parents-with-knowledge-and-skills-is-exemplary-ic5 {
+  width: 430.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 34.8rem;
+  top: 8.1rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-14-Vxy .frame-4-ETw {
+  width: 42rem;
+  height: 68.8rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-15-9au {
+  width: 100%;
+  height: 69.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 {
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 119.6rem;
+  height: 69.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh {
+  box-sizing: border-box;
+  padding-right: 0rem;
+  width: 168.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j {
+  margin: 0rem 2.579rem 0.3rem 0rem;
+  width: 82.8107rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth {
+  box-sizing: border-box;
+  padding: 8.1rem 0rem 3.455rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK {
+  margin-right: 15.9rem;
+  width: 79.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-owey-BR7 {
+  margin-bottom: 2.5rem;
+  width: 76.6rem;
+  height: 47.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-owey-BR7 .group-2-jSd {
+  box-sizing: border-box;
+  padding-bottom: 0.8rem;
+  width: 34.1rem;
+  height: 46.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-owey-BR7 .group-2-jSd .rectangle-1-GhT {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-ZVo.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-owey-BR7 .group-2-jSd .faria-nanjeba-ztM {
+  margin-bottom: 0.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-owey-BR7 .group-2-jSd .autism-therapist-vX7 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-owey-BR7 .in-my-role-as-an-autism-therapist-i-appreciate-how-this-website-addresses-the-multifaceted-challenges-of-homeschooling-autistic-childrenthe-sites-focus-on-empowering-parents-with-knowledge-and-skills-is-exemplary-3Lq {
+  width: 45.8rem;
+  height: 47.9rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-72nr-GDb {
+  margin-right: 1.358rem;
+  width: calc(100% - 1.358rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-72nr-GDb .group-11-bFs {
+  margin-right: 63.9577rem;
+  width: 6.4446rem;
+  height: 6.4446rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .auto-group-rxnz-SyK .auto-group-72nr-GDb .vector-wKj {
+  margin-bottom: 0.0102rem;
+  width: 8.0396rem;
+  height: 6.8345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-5-z5j .frame-1-Kth .iconoir-quote-solid-sz5 {
+  margin-bottom: 2.0447rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR {
+  margin-top: 0.3rem;
+  width: 82.8107rem;
+  height: 68.8rem;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .group-2-hTK {
+  width: 37.2rem;
+  height: 44.3rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 8.5rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .group-2-hTK .rectangle-1-DwT {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-cGu.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .group-2-hTK .auto-group-ktro-jeu {
+  margin-left: 3.1rem;
+  width: 21.9rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .group-2-hTK .auto-group-ktro-jeu .ash-mariz-V8H {
+  width: 18.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .group-2-hTK .auto-group-ktro-jeu .businessman-BWu {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .iconoir-quote-solid-JLd {
+  width: 14.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 50.1rem;
+  overflow: hidden;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .vector-qbT {
+  width: 8.0396rem;
+  height: 6.8345rem;
+  position: absolute;
+  left: 71.8024rem;
+  top: 58.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-15-9au .frame-3-ua5 .group-7-TLh .group-6-PxR .frame-1-MPT .i-faced-challenges-in-caring-for-my-two-autistic-children-until-i-discovered-this-website-it-provided-valuable-assistance-in-navigating-the-complexities-of-raising-multiple-autistic-children-within-a-family-96M {
+  width: 400rem;
+  height: 4rem;
+  position: absolute;
+  left: 35.8rem;
+  top: 6.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-15-9au .frame-4-8ys {
+  width: 42rem;
+  height: 68.8rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-uQq .property-16-tCM {
+  margin-right: 5.6rem;
+  width: 119.6rem;
+  height: 69.4rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV {
+  box-sizing: border-box;
+  padding-top: 0.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 3rem;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX {
+  margin-right: 41.7rem;
+  width: 86.4rem;
+  height: 100%;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF {
+  box-sizing: border-box;
+  padding: 6.4rem 0rem 3.466rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: rgba(254, 176, 213, 0.8799999952);
+  border-radius: 3rem;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK {
+  margin-right: 13.7974rem;
+  width: 81.9026rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-yuv1-Dtq {
+  margin: 0rem 0.303rem 5.7rem 0rem;
+  width: 78.4rem;
+  height: 46.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-yuv1-Dtq .group-2-jMP {
+  width: 37.2rem;
+  height: 44.3rem;
+  position: absolute;
+  left: 0;
+  top: 2.1rem;
+  border-radius: 5rem;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-yuv1-Dtq .group-2-jMP .rectangle-1-rS1 {
+  margin-bottom: 1.9rem;
+  width: 28.5rem;
+  height: 33.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-gww.png');
+  border-radius: 5rem;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-yuv1-Dtq .group-2-jMP .auto-group-3pys-xE9 {
+  margin-left: 3.1rem;
+  width: 21.9rem;
+  height: 8.8rem;
+  position: relative;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-yuv1-Dtq .group-2-jMP .auto-group-3pys-xE9 .ash-mariz-Vzm {
+  width: 18.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 2rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-yuv1-Dtq .group-2-jMP .auto-group-3pys-xE9 .businessman-Qrq {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4475;
+  color: #000000;
+  font-family: Gowun Dodum, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-yuv1-Dtq .i-faced-challenges-in-caring-for-my-two-autistic-children-until-i-discovered-this-website-it-provided-valuable-assistance-in-navigating-the-complexities-of-raising-multiple-autistic-children-within-a-family-w65 {
+  width: 43.6rem;
+  height: 43.9rem;
+  position: absolute;
+  left: 34.8rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.9975;
+  color: #000000;
+  font-family: Grandstander, 'Source Sans Pro';
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-8b3j-z4M {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-8b3j-z4M .group-9-wkH {
+  margin: 0rem 67.07rem 0rem 0rem;
+  width: 6.4446rem;
+  height: 6.4446rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .auto-group-qxay-fsK .auto-group-8b3j-z4M .vector-gSy {
+  width: 8.3881rem;
+  height: 6.8345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .group-6-noX .frame-1-LKF .iconoir-quote-solid-P6V {
+  margin-bottom: 2.0345rem;
+  width: 14.1rem;
+  height: 13.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-uQq .property-16-tCM .frame-3-qNV .frame-4-HxZ {
+  margin-bottom: 3.6554rem;
+  width: 6.4446rem;
+  height: 6.4446rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

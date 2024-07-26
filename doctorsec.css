@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+:root{
+    --green:#16a085;
+    --black:#444;
+    --light-color:#777;
+    --box-shadow:.5rem .5rem 0 rgba(22,160,133,.2);
+    --text-shadow:.4rem .4rem 0 rgba(0,0,0,.2);
+    --border: .2rem solid var(--green);
+    background-color: #ecb37e;
+}
+
+*{
+    font-family: 'poppins',sans-serif;
+    margin: 0px; padding: 0px;
+    box-sizing: border-box;
+    outline: none; border: none;
+    text-transform: capitalize;
+    transition: all .2s ease-out;
+    text-decoration:none ;
+    
+    }
+    html{
+        font-size:62.5%;
+        overflow-x: hidden;
+        scroll-padding-top: 7rem;
+        scroll-behavior: smooth;
+    }
+    /*doctor section design*/
+.doctor-section{
+    width: 80%;
+    margin-left: 200px;
+}
+.doctor-section h1{
+   text-align: center;
+   font-size: 45px; ; 
+   font-weight: 900;
+   text-shadow: 4rem .4rem 0rgba(113,111,111,.2);
+   letter-spacing: .3rem;
+   text-transform: uppercase;
+   font-weight: bold;
+   color: #444;
+}
+.doctor-section .container{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+.doctor-section .container .box{
+    margin: 10px;
+    border:2px solid #5904c9;;
+    width: 400px;
+    height: 425px;
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 7px;
+}
+.doctor-section .container .box img{
+    width: 250px;
+    height: 230px;
+    padding-top: 36px;
+    justify-content: center;
+    border: 2px solid #5904c9;
+    border-radius: 7px;
+}
+.doctor-section .container .box h3{
+    padding: 10px 0;
+    font-size: 20px;
+    color: #230b0e;
+    text-transform: uppercase;
+}
+.doctor-section .container .box span{
+    padding: 10px 0;
+    font-size: 20px;
+    color: #24428f;
+}
+.doctor-section .container .box .icon{
+    margin: 10px 0;
+}
+.doctor-section .container .box .icon a{
+    width: 45px;
+    height: 45px;
+    border: 2px solid #5904c9;
+    display: inline-block;
+    line-height: 44px;
+    border-radius: 7px;
+    background-color: rgb(144, 226, 191);
+}
+.doctor-section .container .box .icon a:hover{
+    background: #16A085;
+}
+.doctor-section .container .box .icon a:hover i{
+    color: #fff;
+}
+.doctor-section .container .box icon a i{
+   font-size: 25px;
+   color: #16A085;
+}
+
