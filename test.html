@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Math Game</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Poppins&family=Roboto+Slab:wght@400;500&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="" />
+</head>
+
+<body>
+ 
+  <header>
+  <nav class="navbar navbar-expand-sm navbar-dark ">
+    
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
+      <li class="nav-item">
+        <a class="home" class="nav-link " href="#">Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="home" class="nav-link " href="#">Education</a>
+      </li>
+      <li class="nav-item">
+        <a class="home" class="nav-link " href="#">Donate</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+</body>
+
+</html>
+
+
+
+
+$createTableQuery = "CREATE TABLE login (
+            
+            email VARCHAR(255) PRIMARY KEY,
+            pass VARCHAR(255) NOT NULL
+        )";
+    
+        if ($conn->query($createTableQuery) === TRUE) {
+            echo "Table 'login' created successfully.";
+        } else {
+            echo "Error creating table: " . $conn->error;
+        }
