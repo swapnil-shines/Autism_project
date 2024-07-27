@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+
+.navbar-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.navbar-menu li {
+    margin-right: 20px;
+}
+
+.navbar-menu li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.navbar-menu li a:hover {
+    color: #ffcc00;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-menu {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background-color: #333;
+        width: 100%;
+    }
+
+    .navbar-menu.active {
+        display: flex;
+    }
+
+    .navbar-menu li {
+        margin: 10px 0;
+    }
+
+    .navbar-toggle {
+        display: block;
+        cursor: pointer;
+    }
+
+    .toggle-icon {
+        width: 30px;
+        height: 4px;
+        background-color: #fff;
+        margin: 6px 0;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .toggle-icon.active {
+        background-color: transparent;
+    }
+
+    .toggle-icon::before,
+    .toggle-icon::after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 100%;
+        background-color: #fff;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .toggle-icon.active::before {
+        transform: translateY(10px) rotate(45deg);
+    }
+
+    .toggle-icon.active::after {
+        transform: translateY(-10px) rotate(-45deg);
+    }
+}
